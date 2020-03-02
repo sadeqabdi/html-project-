@@ -14,8 +14,8 @@
 }
 .bloc-content{
     display: flex;
-    margin: auto;
-    width: 75%;
+    margin: 0 16%;
+    width: 45%;
 }
 .download_btn{
     width: 125px;
@@ -142,6 +142,7 @@
 }
 .section_experience{
     padding-bottom: 50px;
+    width: 220%;
 }
 
 
