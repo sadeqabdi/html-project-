@@ -49,7 +49,8 @@
     font-size: 11px; 
     color: #ced2de; 
     font-weight: 800;
-    border-bottom: 1px solid #f6f7f9;
+    border-bottom: 1px solid #f6f7f9;   
+    
 }
 .detail_junior{
     display: flex; 
