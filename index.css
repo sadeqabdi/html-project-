@@ -49,6 +49,7 @@
     font-size: 11px; 
     color: #ced2de; 
     font-weight: 800;
+    border-bottom: 1px solid #f6f7f9;
 }
 .detail_junior{
     display: flex; 
@@ -56,6 +57,7 @@
     font-size: 11px; 
     color: #ced2de; 
     font-weight: 800;
+    border-bottom: 1px solid #f6f7f9;
 }
 .detail_intern{
     display: flex; 
@@ -63,6 +65,7 @@
     font-size: 11px; 
     color: #ced2de; 
     font-weight: 800;
+    border-bottom: 1px solid #f6f7f9;
 }
 .block_master{
     display: flex; 
@@ -84,6 +87,7 @@
     font-size: 11px; 
     color: #ced2de; 
     font-weight: 800;
+    border-bottom: 1px solid #f6f7f9;
 }
 
 .detail_bachelor{
@@ -92,6 +96,7 @@
     font-size: 11px; 
     color: #ced2de; 
     font-weight: 800;
+    border-bottom: 1px solid #f6f7f9;
 }
 .work_time{
     background: #d7ffe0;
@@ -144,6 +149,15 @@
 .section_experience{
     padding-bottom: 50px;
     width: 220%;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 12%;
+    align-items: center;
+    color: #2c427e;
+    border-top: 1px solid #f6f7f9;
+    width: 90%;
 }
 
 
