@@ -159,6 +159,16 @@
     border-top: 1px solid #f6f7f9;
     width: 90%;
 }
+.breadcrumb{
+    display: flex;
+    color: #2c427d;
+    font-weight: 600;
+    margin-left: 16%;
+    font-size: 13px;
+    align-items: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
 
 
 
